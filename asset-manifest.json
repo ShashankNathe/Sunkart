@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/SunKart/static/css/main.f58f1a96.css",
+    "main.js": "/SunKart/static/js/main.264e8a02.js",
+    "static/media/hero1.png": "/SunKart/static/media/hero1.118211d5fd8f6777662b.png",
+    "static/media/hero.png": "/SunKart/static/media/hero.9b91765fc6a0c8f02bf1.png",
+    "static/media/logo.png": "/SunKart/static/media/logo.26b7dbc85a2e6c9fd7f4.png",
+    "static/media/before.webp": "/SunKart/static/media/before.1727b49334f6fca90364.webp",
+    "static/media/after.webp": "/SunKart/static/media/after.2359adb84deb2be81f67.webp",
+    "static/media/shade.png": "/SunKart/static/media/shade.ce305661a97c2720c82b.png",
+    "index.html": "/SunKart/index.html",
+    "main.f58f1a96.css.map": "/SunKart/static/css/main.f58f1a96.css.map",
+    "main.264e8a02.js.map": "/SunKart/static/js/main.264e8a02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f58f1a96.css",
+    "static/js/main.264e8a02.js"
+  ]
+}
