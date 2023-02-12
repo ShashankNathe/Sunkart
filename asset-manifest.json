@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/SunKart/static/css/main.62d3b46f.css",
-    "main.js": "/SunKart/static/js/main.5eccb649.js",
-    "static/media/hero1.png": "/SunKart/static/media/hero1.118211d5fd8f6777662b.png",
-    "static/media/hero.png": "/SunKart/static/media/hero.9b91765fc6a0c8f02bf1.png",
-    "static/media/logo.png": "/SunKart/static/media/logo.26b7dbc85a2e6c9fd7f4.png",
-    "static/media/before.webp": "/SunKart/static/media/before.1727b49334f6fca90364.webp",
-    "static/media/after.webp": "/SunKart/static/media/after.2359adb84deb2be81f67.webp",
-    "static/media/shade.png": "/SunKart/static/media/shade.ce305661a97c2720c82b.png",
-    "index.html": "/SunKart/index.html",
-    "main.62d3b46f.css.map": "/SunKart/static/css/main.62d3b46f.css.map",
-    "main.5eccb649.js.map": "/SunKart/static/js/main.5eccb649.js.map"
+    "main.css": "/Sunkart/static/css/main.62d3b46f.css",
+    "main.js": "/Sunkart/static/js/main.78eb8b37.js",
+    "static/media/hero1.png": "/Sunkart/static/media/hero1.118211d5fd8f6777662b.png",
+    "static/media/hero.png": "/Sunkart/static/media/hero.9b91765fc6a0c8f02bf1.png",
+    "static/media/logo.png": "/Sunkart/static/media/logo.26b7dbc85a2e6c9fd7f4.png",
+    "static/media/before.webp": "/Sunkart/static/media/before.1727b49334f6fca90364.webp",
+    "static/media/after.webp": "/Sunkart/static/media/after.2359adb84deb2be81f67.webp",
+    "static/media/shade.png": "/Sunkart/static/media/shade.ce305661a97c2720c82b.png",
+    "index.html": "/Sunkart/index.html",
+    "main.62d3b46f.css.map": "/Sunkart/static/css/main.62d3b46f.css.map",
+    "main.78eb8b37.js.map": "/Sunkart/static/js/main.78eb8b37.js.map"
   },
   "entrypoints": [
     "static/css/main.62d3b46f.css",
-    "static/js/main.5eccb649.js"
+    "static/js/main.78eb8b37.js"
   ]
 }
